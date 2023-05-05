@@ -1,0 +1,9 @@
+gitlab:
+- /opt/CheckLabDevices/Configs/gitlabConfigs.yml
+pings:
+- /opt/CheckLabDevices/Configs/pingConfigs.yml
+- /opt/CheckLabDevices/Configs/pingConfigs.yml
+tokalabs:
+- /opt/CheckLabDevices/Configs/tokaConfigs.yml
+
+report: /opt/CheckLabDevices/report.txt

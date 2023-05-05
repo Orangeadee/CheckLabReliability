@@ -1,0 +1,5 @@
+inputFile: /opt/CheckLabDevices/ProServ_Labs_Resource_Master_List.xlsx
+sheetName: Calabasas Lab-Development
+headerRefs:
+  deviceName: <S/N>  [Service Tag] or VM Name
+  deviceIP: Current IP

@@ -1,0 +1,10 @@
+trigger_url: http://10.24.50.11:8008/api/v4/projects/3/trigger/pipeline
+report_url: http://10.24.50.11:8008/api/v4/projects/3/pipelines
+token: c4c8e5cc9f4316957e3667645acf6a
+branch: dev_branch
+pipeId: 43
+hosts:
+  deveopServer: 10.24.50.11
+  ixNetworkAPIServer: 10.24.50.12
+  ixia_B2B: 10.24.50.13
+email: hubert.gee@keysight.com
